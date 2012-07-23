@@ -1,5 +1,5 @@
 Package: desire
-Version: 1.0.5
+Version: 1.0.6
 Title: Desirability functions
 Description: Harrington and Derringer-Suich type desirability functions
 Author: Heike Trautmann <trautmann@statistik.tu-dortmund.de> and Detlef
@@ -11,6 +11,6 @@ License: GPL-2
 URL: http://git.datensplitter.net/cgit/desire/
 LazyData: yes
 Date:
-Packaged: 2009-09-22 14:10:14 UTC; olafm
+Packaged: 2012-07-23 21:43:50 UTC; olafm
 Repository: CRAN
-Date/Publication: 2009-09-22 14:52:40
+Date/Publication: 2012-07-24 05:10:47
