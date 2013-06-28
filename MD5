@@ -1,5 +1,4 @@
-ae08c5409fa83a94decc61d5d38ea346 *ChangeLog
-d3a0192c529c69c548fdf9630954b8d4 *DESCRIPTION
+31435bdcbb667efd9142cdad890b16a4 *DESCRIPTION
 a7f98a330cffb5a9b422b52ea825f063 *NAMESPACE
 872942c96eb259d13c58cfbb50304585 *R/composite_df.R
 8624b5ae06f64b77c8376c6e24e552ec *R/derringer_suich.R
@@ -21,7 +20,7 @@ e9ed56ce27fc2c7c46a3d9c698bc2363 *man/Chocolate.Rd
 2074a08165b1e8cd0e68611244d32227 *man/compositeDF.Rd
 77f34f35bdeca5cab411da109b357c39 *man/ddesire.Rd
 ce1f4b02507453f82f2805db0b5c5949 *man/derringerSuich.Rd
-1bb0292a53b71c1d49fbfc4b4e63ff61 *man/dsplot.Rd
+af04dd4309fa13afc3e7f61c82d0ba18 *man/dsplot.Rd
 b8cf0447b1e4de123d19c6e1d8902ee8 *man/geometricDI.Rd
 6060df7d2f007f8294aaaf4a624fa44f *man/harrington1.Rd
 6644a945182dfae119dad3530c8c77cb *man/harrington2.Rd
@@ -29,7 +28,7 @@ b8cf0447b1e4de123d19c6e1d8902ee8 *man/geometricDI.Rd
 8e2a94f8f4cf9e257d4f1936668ced3f *man/meanDI.Rd
 c24a844e2db7c6959b322d2b667478e4 *man/minimumDI.Rd
 666193bbb42f43b74e56414d19174196 *man/normalDF.Rd
-d4fa7fb8a2052e58df09cfc3f522cabe *man/plot.desire.function.Rd
+21423ffaf8269fd845fd68cd38adf400 *man/plot.desire.function.Rd
 727e16fb364de9cfe26bfee7536f5e81 *man/plot.harrington2.Rd
 b52400ba8203cdc14fc0b4d09f68ae20 *man/realisticDF.Rd
 3a684062c9c554e7ab14f7c25a684b16 *src/derringer_suich.c
